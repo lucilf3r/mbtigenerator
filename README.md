@@ -1,1 +1,1 @@
-# mbtigenerator
+# a personality type generator
